@@ -6,6 +6,8 @@ An example using [Travis CI](https://travis-ci.org) for continuous deployment to
 
 Continuous Integration services like [Travis CI](https://travis-ci.org/) make it possible to run Surge and publish your project each time you push to a GitHub repository. This also makes it possible to publish each time your tests pass, or when someone opens up a pull request.
 
+My travis-ci repo link is this : https://travis-ci.org/Shekharrajak/example-travisci
+
 1. Get your token
 2. Add your project’s repository to Travis CI
 3. Push a `.travis.yml` file that will run the `surge` command
